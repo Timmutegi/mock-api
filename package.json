@@ -1,0 +1,26 @@
+{
+  "name": "json-server-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timmutegi/mock-api.git"
+  },
+  "keywords": [
+    "MOCK-API"
+  ],
+  "author": "Timothy Mutegi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timmutegi/mock-api/issues"
+  },
+  "homepage": "https://github.com/Timmutegi/mock-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
