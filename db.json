@@ -3,16 +3,16 @@
         {
             "id": 0,
             "project": "OIP",
-            "duration": "50",
+            "expected_hours": "50",
             "from_date": "21/11/2021",
             "to_Date": "25/11/2021",
             "user": "Timothy Mbaka",
             "status": "pending"
         },
         {
-            "id": 0,
+            "id": 1,
             "project": "HUB",
-            "duration": "50",
+            "expected_hours": "50",
             "from_date": "21/11/2021",
             "to_Date": "25/11/2021",
             "user": "Timothy Mbaka",
