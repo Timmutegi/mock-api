@@ -5,7 +5,7 @@
             "project": "OIP",
             "expected_hours": "50",
             "from_date": "21/11/2021",
-            "to_Date": "25/11/2021",
+            "to_date": "25/11/2021",
             "user": "Timothy Mbaka",
             "status": "pending"
         },
@@ -14,7 +14,7 @@
             "project": "HUB",
             "expected_hours": "50",
             "from_date": "21/11/2021",
-            "to_Date": "25/11/2021",
+            "to_date": "25/11/2021",
             "user": "Timothy Mbaka",
             "status": "pending"
         }
